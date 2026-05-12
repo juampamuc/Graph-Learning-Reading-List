@@ -6,7 +6,8 @@ I scanned over the accepted paper lists of top machine learning and data mining 
   - [Dynamic (Temporal) Graph Learning Reading List](https://github.com/doujiang-zheng/Dynamic-Temporal-Graph-Learning-Reading-List)
   - [Awesome-Human-Mobility-Science-Paper-List](https://github.com/Star607/Awesome-Human-Mobility-Science-Paper-List)
 
-We also create the reading lists for [2022](./Graph-Learning-2022.md), [2023](./Graph-Learning-2023.md), and [2024](./Graph-Learning-2024.md) for convenience. 
+We also create the reading list of each year as follows for convenience.
+- [2025](/Graph-Learning-2025.md) [2024](/Graph-Learning-2024.md) [2023](/Graph-Learning-2023.md) [2022](/Graph-Learning-2022.md)
 
 ## [Contents](#contents)
   - [IJCAI-2025](#ijcai-2025) [ICML-2025](#icml-2025) [KDD-2025](#kdd-2025) [SIGIR-2025](#sigir-2025) [CIKM-2025](#cikm-2025) [AAAI-2025](#aaai-2025) [ICLR-2025](#iclr-2025) [WSDM-2025](#wsdm-2025) [WWW-2025](#www-2025) [ICDE-2025](#icde-2025) [SIGMOD-2025](#sigmod-2025)
