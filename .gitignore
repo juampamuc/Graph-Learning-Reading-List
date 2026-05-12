@@ -1,5 +1,6 @@
-filter_scripts/*.txt
+filter scripts/*.txt
 .claude/
+CLAUDE.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
