@@ -3,6 +3,7 @@
 I scanned over the accepted paper lists of top machine learning and data mining conferences for interests in graph learning. We also add a snippset tutorial [Parse Website](./ParseWebsite.md) to teach you **how to obtain the titles and authors from the official conference website**.
 
 - ## Recommended paper list
+  - [Awesome Graph Anomaly Detection Papers List](https://github.com/LuoXishuang0712/Awesome-Graph-Anomaly-Detection-Papers-List)
   - [Dynamic (Temporal) Graph Learning Reading List](https://github.com/doujiang-zheng/Dynamic-Temporal-Graph-Learning-Reading-List)
   - [Awesome-Human-Mobility-Science-Paper-List](https://github.com/Star607/Awesome-Human-Mobility-Science-Paper-List)
 
